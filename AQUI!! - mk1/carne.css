@@ -1,0 +1,92 @@
+body{
+    background:rgb(0, 0, 0);
+    background-image: url(../AQUI!!\ -\ mk1/miranhacaindo.png);
+    background-size: cover;
+    /*background-position: center center;*/
+    /*background-repeat: no-repeat; para não repetir a imagem*/
+    /*só escolhera cor digitando o nome e depois ajeitar no RGB*/
+    font: normal 15pt monospace;
+}
+header{
+    color: rgb(255, 255, 255);
+    text-align: center; /* text-align = alinhamento de texto*/
+    background: rgba(116, 0, 194, 0.103);
+    
+}
+div#caixa1{
+    width: 400px;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.644);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgb(50, 50, 50);
+    margin: auto;
+}
+div#caixa2{
+    width: 400px;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.644);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgb(50, 50, 50);
+    margin: auto;
+}
+div#divisa{
+    margin: auto;
+    color: white;
+    text-align: center;
+}
+div#caixa3{
+    width: 400px;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.644);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgb(50, 50, 50);
+    margin: auto;
+}
+div#caixa4{
+    width: 400px;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.644);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgb(50, 50, 50);
+    margin: auto;
+}
+div#cachacinha{
+    width: 400px;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.644);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgb(50, 50, 50);
+    margin: auto;
+
+}
+/*se2ction{ MEMORIAL AO SECTION
+    /*background: rgba(0, 0, 0, 0.644);/*466 fundo transparente*/
+    /*color: white;
+    /*border-radius: 10px; /*corte na borda, deixando a redonda*/
+    /*padding: 15px; /*espaço marcado*/
+    /*width: 400px; /*largura*/
+    /*margin: auto; /*centralizando de forma automática*/
+    /*box-shadow: 5px 5px 10px rgb(50, 50, 50);
+    caixa de sombra definida por Qt lateral, Qt vertical, Qt espalhamento*//*
+
+}*/
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.76);
+    width: 100px;
+    padding: 0.00001px;
+    border-radius: 5px;
+}
