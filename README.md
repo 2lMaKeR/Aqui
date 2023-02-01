@@ -37,7 +37,7 @@ Será necessário os seguintes pré-requisitos
 ## Sugestões e bugs
 
 Encontrou algum bug ou gostaria de enviar sugestões para a implementação?
-Fique à vontade para abrir um issue ou envia um email no próprio site para (writemesend@gmail.com), deixando a sugestão.
+Fique à vontade para abrir um issue ou envia um email para (tome.felipe03@gmail.com), deixando a sugestão.
 
 ## Sobre
 
